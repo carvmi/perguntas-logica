@@ -43,7 +43,7 @@ a) 1, 3, 5, 7, <b> 9</b> <i> soma de 2 </i>
 
 b) 2, 4, 8, 16, 32, 64, <b> 128</b>  <i> multiplica 2 </i>
 
-c) 0, 1, 4, 9, 16, 25, 36, <b> 49</b>  <i> eleva ao quadrado </i>
+c) 0, 1, 4, 9, 16, 25, 36, <b> 49</b>  <i> a diferença entre os termos consecutivos é sempre um número ímpar: 1, 3, 5, 7, 9, 11. Para encontrar o próximo termo, somamos 13 ao último termo da sequência </i>
 
 d) 4, 16, 36, 64, <b>100</b>  <i> Entre 4 e 16, adicionamos 12 unidades; Entre 16 e 36, adicionamos 20 unidades; Entre 36 e 64, adicionamos 28 unidades. Logo, de 64 para o próximo tem 36 unidades de diferença. 64 + 36 = 100 </i>
 
